@@ -18,6 +18,7 @@ git clone <repo-url> "$HOME/AppData/Roaming/Code/User"
 ```
 
 Or manually copy files to your VS Code user settings folder:
+
 - **Windows**: `%APPDATA%\Code\User`
 - **macOS**: `~/Library/Application Support/Code/User`
 - **Linux**: `~/.config/Code/User`
@@ -26,7 +27,7 @@ Or manually copy files to your VS Code user settings folder:
 
 Keep commits atomic and self-documenting:
 
-```
+```md
 feat: add new keyboard shortcut for format document
 fix: correct tab size setting for JSON files
 style: update font family to Monaspace Argon NF
@@ -37,6 +38,7 @@ refactor: reorganize settings by category
 ## 🔧 Manual Extension Installation
 
 After restoring settings, install extensions via Command Palette:
+
 1. `Ctrl+Shift+P` → "Extensions: Show Recommended Extensions"
 2. Install all recommended extensions from the list
 

@@ -3,9 +3,6 @@
   "terminal.external.windowsExec": "\"C:\\Program Files\\Git\\git-bash.exe\"",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "files.autoSave": "afterDelay",
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "playwright.reuseBrowser": false,
   "git.autofetch": true,
   "editor.fontFamily": "'Monaspace Argon NF', 'Fira Code', 'Courier New', monospace",
@@ -17,5 +14,18 @@
   "editor.lineHeight": 1.5,
   "editor.renderWhitespace": "boundary",
   "editor.minimap.showSlider": "always",
-  "workbench.settings.applyToAllProfiles": []
+  "workbench.settings.applyToAllProfiles": [],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
