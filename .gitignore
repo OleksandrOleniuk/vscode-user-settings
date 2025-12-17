@@ -1,0 +1,15 @@
+# Workspace & UI state
+workspaceStorage/
+globalStorage/
+History/
+
+# Logs & caches
+logs/
+CachedData/
+Cache/
+
+# Extension binaries (huge + OS-specific)
+extensions/
+
+# Crash reports
+Crashpad/

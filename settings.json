@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "Kanagawa Wave",
+  "terminal.external.windowsExec": "\"C:\\Program Files\\Git\\git-bash.exe\"",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "files.autoSave": "afterDelay",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "playwright.reuseBrowser": false,
+  "git.autofetch": true,
+  "editor.fontFamily": "'Monaspace Argon NF', 'Fira Code', 'Courier New', monospace",
+  "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09', 'ss10', 'liga'",
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.fontWeight": "500",
+  "editor.lineHeight": 1.5,
+  "editor.renderWhitespace": "boundary",
+  "editor.minimap.showSlider": "always",
+  "workbench.settings.applyToAllProfiles": []
+}
